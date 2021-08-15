@@ -2,4 +2,7 @@
 
 - Screens
 
-![](https://github.com/Emadabdelhamied/AI-Project-Spring2020-/blob/main/UI.jpg)
+![](https://github.com/Emadabdelhamied/demo_ITI/blob/master/1.jpg)
+![](https://github.com/Emadabdelhamied/demo_ITI/blob/master/2.jpg)
+![](https://github.com/Emadabdelhamied/demo_ITI/blob/master/3.jpg)
+![](https://github.com/Emadabdelhamied/demo_ITI/blob/master/4.jpg)
